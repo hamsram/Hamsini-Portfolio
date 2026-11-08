@@ -1,0 +1,64 @@
+
+# Hamsini Ramesh | Personal Portfolio
+
+A personal academic and professional portfolio showcasing my background, experience, projects, certifications and technical skills in Business Intelligence, Data Analytics and Artificial Intelligence.
+
+## About
+
+I am a Computer Science graduate from PES University and an Associate Analytics Consultant at phData.
+
+My experience includes enterprise BI migrations, semantic data modelling, dashboard development, data validation and AI-enabled analytical workflows.
+
+I am interested in exploring the intersection of Data Science and Artificial Intelligence.
+
+## Portfolio Sections
+
+- About – Professional summary
+- Education – Academic background
+- Experience – Professional experience and internships
+- Projects – Academic and technical projects
+- Certifications – Professional certifications
+- Technical Skills – Programming, analytics and data technologies
+- Contact – Professional contact information
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+
+## Features
+
+- Minimal academic-inspired design
+- Responsive layout for desktop and mobile
+- Simple navigation between sections
+- Lightweight implementation using vanilla JavaScript
+- Hosted using GitHub Pages
+
+## Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git
+   ```
+
+2. Open the project folder in VS Code.
+
+3. Open `index.html` in your browser or use the Live Server extension.
+
+## Deployment
+
+This portfolio is hosted using GitHub Pages.
+
+Website: https://YOUR_USERNAME.github.io
+
+## Contact
+
+- Email: hamsram26@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hamsini-ramesh-011288224/
+
+---
+
+© Hamsini Ramesh
